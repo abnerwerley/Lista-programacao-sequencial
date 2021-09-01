@@ -15,8 +15,7 @@ public class Exercicio06 {
 		Scanner leia = new Scanner(System.in);
 		double potenciaX;
 		double potenciaY;
-				
-		//Math.sqrq();
+		
 		System.out.println("Calcularei a distância entre dois pontos para você.");
 		System.out.println("Insira x e y do primeiro ponto:");
 		Xa = leia.nextDouble();
